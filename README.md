@@ -30,7 +30,6 @@ Minha atuação envolve *Python, SQL e Power BI, além de bibliotecas como **Pan
 
 ### 🔹 Outras Competências  
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4C89?style=for-the-badge&logo=n8n&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -41,15 +40,14 @@ Minha atuação envolve *Python, SQL e Power BI, além de bibliotecas como **Pan
 ## 📊 Estatísticas no GitHub
 
 <!-- Estatísticas de contribuição -->
-![Lucas Barretto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasPBar&show_icons=true&theme=radical&hide_title=true)
+![LucasPBar's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasPBar&show_icons=true&theme=dark)
 
 <!-- Linguagens mais usadas -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPBar&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPBar&langs_count=8&theme=dark)
+
+
 
 </div>
-
-
-
 
 ---
 
