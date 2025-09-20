@@ -65,7 +65,7 @@ My work involves *Python, SQL, and Power BI, as well as libraries like **Pandas*
 
 ---
 
-## 🌱 Currently Focused On  
+## 🚀 Currently Focused On  
 
 - Practical projects in **data analysis and visualization**  
 - Deepening knowledge in **Python, SQL, R, and Machine Learning**  
