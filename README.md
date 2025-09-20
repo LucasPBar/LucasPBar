@@ -40,9 +40,15 @@ Minha atuação envolve *Python, SQL e Power BI, além de bibliotecas como **Pan
 
 ## 📊 Estatísticas no GitHub
 
-![Lucas GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasPBar&show_icons=true&theme=radical)
+<!-- Estatísticas de contribuição -->
+![Lucas Barretto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasPBar&show_icons=true&theme=radical&hide_title=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPBar&layout=compact&theme=radical)
+<!-- Linguagens mais usadas -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPBar&layout=compact&theme=radical)
+
+</div>
+
+
 
 ---
 
