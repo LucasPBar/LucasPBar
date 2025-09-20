@@ -38,11 +38,11 @@ Minha atuação envolve *Python, SQL e Power BI, além de bibliotecas como **Pan
 
 ---
 
-## 📊 Estatísticas no GitHub  
+## 📊 Estatísticas no GitHub
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPBar&layout=compact&theme=radical)  
+![Lucas GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasPBar&show_icons=true&theme=radical)
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=LucasPBar&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPBar&layout=compact&theme=radical)
 
 ---
 
@@ -70,7 +70,7 @@ Minha atuação envolve *Python, SQL e Power BI, além de bibliotecas como **Pan
 
 ## 📬 Vamos nos conectar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Pimenta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucaspbar/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Pimenta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucaspimentabarretto/)
 
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-Data%20Science-6f42c1?style=for-the-badge&logo=About.me&logoColor=white)](https://www.datascienceportfol.io/lucaspimenta1805)
 
