@@ -50,6 +50,7 @@ Minha atuação envolve *Python, SQL e Power BI, além de bibliotecas como **Pan
 
 
 
+
 ---
 
 ## 📚 Formação & Certificações  
