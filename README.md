@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Lucas Pimenta  
+# 👋 Olá, eu sou o Lucas Barretto
 
 ---
 
