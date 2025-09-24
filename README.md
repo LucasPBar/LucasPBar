@@ -77,8 +77,10 @@ Minha atuação envolve *Python, SQL e Power BI, além de bibliotecas como **Pan
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Pimenta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucaspimentabarretto/)
 
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-Data%20Science-6f42c1?style=for-the-badge&logo=About.me&logoColor=white)](https://www.datascienceportfol.io/lucaspimenta1805)
-
 [![Gmail](https://img.shields.io/badge/Email-lucaspimenta@email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucaspimenta@email.com)
 
-[![GitHub](https://img.shields.io/badge/GitHub-LucasPBar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LucasPBar)
+[![DIO](https://img.shields.io/badge/DIO-Lucas%20Pimenta-60C92F?style=for-the-badge&logo=data-science-council-of-america&logoColor=white)](https://www.dio.me/users/lucaspimenta1805)
+
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-Data%20Science-6f42c1?style=for-the-badge&logo=About.me&logoColor=white)](https://www.datascienceportfol.io/lucaspimenta1805)
+
+
