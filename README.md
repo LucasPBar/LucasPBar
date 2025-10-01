@@ -11,29 +11,36 @@ Minha atuação envolve *Python, SQL e Power BI, além de bibliotecas como **Pan
 
 ---
 
-## 🛠️ Habilidades Técnicas  
+## 🛠️ Habilidades Técnicas
 
-### 🔹 Linguagens & Banco de Dados  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+### 🔹 Linguagens & Banco de Dados
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+  <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="48" height="48"/>
+  <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png" alt="SQL" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
+  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL"/>
+  <img src="https://img.icons8.com/fluency/48/000000/jupyter.png" alt="Jupyter"/>
+</p>
 
-### 🔹 Análise & Visualização  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4c8cbf?style=for-the-badge&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+### 🔹 Análise & Visualização
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="90" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" alt="NumPy" width="90" height="40"/>
+  <img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="Matplotlib" width="90" height="40"/>
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="90" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI"/>
+</p>
 
-### 🔹 Outras Competências  
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4C89?style=for-the-badge&logo=n8n&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-FF6F00?style=for-the-badge&logo=scrumalliance&logoColor=white)
+### 🔹 Outras Competências
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" alt="Machine Learning" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="48" height="48"/>
+  <img src="https://n8n.io/favicon-32x32.png" alt="n8n" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VSCode" width="48" height="48"/>
+</p>
+
+
 
 ---
 
@@ -44,8 +51,6 @@ Minha atuação envolve *Python, SQL e Power BI, além de bibliotecas como **Pan
 
 <!-- Linguagens mais usadas -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPBar&langs_count=8&theme=dark&include_all_commits=true)
-
-
 
 </div>
 
@@ -75,12 +80,19 @@ Minha atuação envolve *Python, SQL e Power BI, além de bibliotecas como **Pan
 
 ## 📬 Vamos nos conectar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Pimenta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucaspimentabarretto/)
-
-[![Gmail](https://img.shields.io/badge/Email-lucaspimenta@email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucaspimenta@email.com)
-
-[![DIO](https://img.shields.io/badge/DIO-Lucas%20Pimenta-60C92F?style=for-the-badge&logo=data-science-council-of-america&logoColor=white)](https://www.dio.me/users/lucaspimenta1805)
-
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-Data%20Science-6f42c1?style=for-the-badge&logo=About.me&logoColor=white)](https://www.datascienceportfol.io/lucaspimenta1805)
-
+<h3 align="left">📡 Conecte-se comigo:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/lucaspimentabarretto/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.kaggle.com/lucaspbarretto" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/lucaspimenta1805" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+  </a>
+  <a href="mailto:lucaspimenta1805@gmail.com" target="_blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="40" />
+  </a>
+</p>
 
