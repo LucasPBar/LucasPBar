@@ -82,10 +82,10 @@ Minha atuação envolve *Python, SQL e Power BI, além de bibliotecas como **Pan
 
 <p align="left">
   <a href="https://www.linkedin.com/in/lucaspimentabarretto/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" style="margin-right: 10px;" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="35" style="margin-right: 10px;" />
   </a>
   <a href="https://www.kaggle.com/lucaspbarretto" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="40" width="40" style="margin-right: 10px;" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="35" width="35" style="margin-right: 10px;" />
   </a>
   <a href="https://www.hackerrank.com/lucaspimenta1805" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="40" width="40" style="margin-right: 10px;" />
