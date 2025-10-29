@@ -80,8 +80,12 @@ Minha atuação envolve *Python, SQL e Power BI, além de bibliotecas como **Pan
 
 ## 📬 Vamos nos conectar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucaspimentabarretto/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/lucaspbarretto)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/lucaspimenta1805)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucaspimenta1805@gmail.com)
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/lucaspimentabarretto/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="35" height="35" />
+</a>
 
+
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=lucaspimenta1805@gmail.com" target="_blank">
+  <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="35" height="35" />
+</a>
