@@ -27,7 +27,7 @@ Minha atuação envolve *Python, SQL e Power BI, além de bibliotecas como **Pan
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="90" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" alt="NumPy" width="90" height="40"/>
-  <img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="Matplotlib" width="90" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="90" height="40" />
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="90" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI"/>
 </p>
