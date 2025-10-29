@@ -80,17 +80,8 @@ Minha atuação envolve *Python, SQL e Power BI, além de bibliotecas como **Pan
 
 ## 📬 Vamos nos conectar
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/lucaspimentabarretto/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="35" style="margin-right: 10px;" />
-  </a>
-  <a href="https://www.kaggle.com/lucaspbarretto" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="35" width="35" style="margin-right: 10px;" />
-  </a>
-  <a href="https://www.hackerrank.com/lucaspimenta1805" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="40" width="40" style="margin-right: 10px;" />
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=lucaspimenta1805@gmail.com&su=Contato%20pelo%20portfólio&body=Olá%20Lucas," target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" height="40" width="40" style="vertical-align: middle;" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucaspimentabarretto/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/lucaspbarretto)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/lucaspimenta1805)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucaspimenta1805@gmail.com)
+
