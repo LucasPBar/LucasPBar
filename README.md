@@ -64,7 +64,6 @@ Minha atuação envolve *Python, SQL e Power BI, além de bibliotecas como **Pan
 📜 **Google Data Analytics Professional Certificate – Coursera**  
 📜 **Google Project Management Professional Certificate – Coursera**  
 📜 **SQL Intermediário – HackerRank**  
-📜 **CS50x – Harvard (Ciência da Computação)** *(em andamento)*  
 📜 Cursos adicionais em **Python** e **Business Intelligence**  
 
 ---
