@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Lucas Barretto
 
-![Image](https://github.com/user-attachments/assets/db647aa1-575e-467a-8b8b-71aa798112c8)
+![Image](https://github.com/user-attachments/assets/fa351651-7c69-4773-add0-063fa97ab2b7)
 
 ---
 
