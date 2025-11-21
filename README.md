@@ -1,5 +1,7 @@
 # 👋 Olá, eu sou o Lucas Barretto
 
+![Image](https://github.com/user-attachments/assets/db647aa1-575e-467a-8b8b-71aa798112c8)
+
 ---
 
 ## 🚀 Sobre mim  
@@ -7,7 +9,7 @@
 Sou bacharel em *Engenharia de Produção* e atualmente curso *Pós-graduação em Ciência de Dados*.  
 Tenho experiência prática em *Análise e Visualização de Dados, transformando dados em **insights estratégicos* que apoiam a tomada de decisão.  
 
-Minha atuação envolve *Python, SQL e Power BI, além de bibliotecas como **Pandas* e *NumPy*, sempre buscando aplicar técnicas de exploração, limpeza e visualização de dados em projetos práticos e desafiadores.  
+Minha atuação envolve *Python*, *SQL* e *Power BI*, além de bibliotecas como *Pandas* e *NumPy*, sempre buscando aplicar técnicas de exploração, limpeza e visualização de dados em projetos práticos e desafiadores.  
 
 ---
 
@@ -44,27 +46,15 @@ Minha atuação envolve *Python, SQL e Power BI, além de bibliotecas como **Pan
 
 ---
 
-## 📊 Estatísticas no GitHub
+## 📊 Estatísticas do GitHub
 
-<!-- Estatísticas de contribuição -->
-![LucasPBar's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasPBar&show_icons=true&theme=dark&include_all_commits=true)
+<div align="center">
 
-<!-- Linguagens mais usadas -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPBar&langs_count=8&theme=dark&include_all_commits=true)
+![LucasPBar GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasPBar&show_icons=true&theme=transparent&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPBar&layout=compact&theme=transparent)
 
 </div>
-
----
-
-## 📚 Formação & Certificações  
-
-🎓 Pós-graduação em **Ciência de Dados** *(em andamento)*  
-🎓 Bacharelado em **Engenharia de Produção**  
-📜 **Google Advanced Data Analytics Professional Certificate – Coursera**  
-📜 **Google Data Analytics Professional Certificate – Coursera**  
-📜 **Google Project Management Professional Certificate – Coursera**  
-📜 **SQL Intermediário – HackerRank**  
-📜 Cursos adicionais em **Python** e **Business Intelligence**  
 
 ---
 
