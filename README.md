@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Lucas Barretto
+# 👋 Olá, me chamo Lucas Barretto
 
 ![Image](https://github.com/user-attachments/assets/147ef66f-ee8f-499d-8d06-4d0faa014365)
 
