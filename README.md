@@ -1,80 +1,164 @@
-# 👋 Olá, me chamo Lucas Barretto
+<!-- BANNER ANIMADO -->
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:001F3F&height=220&section=header&text=Hi%20👋,%20I'm%20Lucas%20Barretto&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Production%20Engineering%20%7C%20Data%20Science%20Postgraduate&descAlignY=60&descAlign=50"
+    width="100%"
+  />
+</p>
 
-![Image](https://github.com/user-attachments/assets/147ef66f-ee8f-499d-8d06-4d0faa014365)
+<!-- TYPING EFFECT ALINHADO -->
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Streamlit+Dashboard+Builder;Business+Driven+Projects"
+    width="800"
+  />
+</p>
+
+<!-- IMAGEM PRINCIPAL ALINHADA -->
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/147ef66f-ee8f-499d-8d06-4d0faa014365"
+    width="900"
+  />
+</p>
 
 ---
 
-## 🚀 Sobre mim  
+## 🚀 Sobre mim
 
-Sou bacharel em *Engenharia de Produção* e atualmente curso *Pós-graduação em Ciência de Dados*.  
-Tenho experiência prática em *Análise e Visualização de Dados, transformando dados em **insights estratégicos* que apoiam a tomada de decisão.  
+Sou bacharel em *Engenharia de Produção* e possuo *Pós-graduação em Ciência de Dados*. Tenho experiência prática em **Análise e Visualização de Dados**, transformando dados em **insights estratégicos** que apoiam a tomada de decisão.
 
-Minha atuação envolve *Python*, *SQL* e *Power BI*, além de bibliotecas como *Pandas* e *NumPy*, sempre buscando aplicar técnicas de exploração, limpeza e visualização de dados em projetos práticos e desafiadores.  
+Minha atuação envolve **Python**, **SQL** e **Power BI**, além de bibliotecas como **Pandas** e **NumPy**, sempre buscando aplicar técnicas de exploração, limpeza e visualização de dados em projetos práticos e desafiadores.
 
 ---
 
 ## 🛠️ Habilidades Técnicas
+<h2 align="center">💻 Linguagens & Análise de Dados</h2>
+<table align="center">
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=python" width="50"/><br><sub><b>Python</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=r" width="50"/><br><sub><b>R</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://img.icons8.com/external-flat-juicy-fish/60/external-sql-coding-and-development-flat-flat-juicy-fish.png" width="50"/><br><sub><b>SQL</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="50"/><br><sub><b>Pandas</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="50"/><br><sub><b>NumPy</b></sub>
+</td>
+</tr>
+</table>
 
-### 🔹 Linguagens & Banco de Dados
-<p align="left">
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
-  <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="48" height="48"/>
-  <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png" alt="SQL" width="48" height="48"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
-  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL"/>
-  <img src="https://img.icons8.com/fluency/48/000000/jupyter.png" alt="Jupyter"/>
-</p>
+---
 
-### 🔹 Análise & Visualização
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="90" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" alt="NumPy" width="90" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="90" height="40" />
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="90" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI"/>
-</p>
+<h2 align="center">📊 Visualização & BI</h2>
+<table align="center">
+<tr>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="50"/><br><sub><b>Matplotlib</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://seaborn.pydata.org/_static/logo-mark-lightbg.svg" width="50"/><br><sub><b>Seaborn</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="50"/><br><sub><b>Streamlit</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://img.icons8.com/color/48/power-bi.png" width="50"/><br><sub><b>Power BI</b></sub>
+</td>
+</tr>
+</table>
 
-### 🔹 Outras Competências
-<p align="left">
-  <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" alt="Machine Learning" width="48" height="48"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="48" height="48"/>
-  <img src="https://n8n.io/favicon-32x32.png" alt="n8n" width="48" height="48"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VSCode" width="48" height="48"/>
-</p>
+---
 
+<h2 align="center">🗄️ Bancos de Dados</h2>
+<table align="center">
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=postgres" width="50"/><br><sub><b>PostgreSQL</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=mysql" width="50"/><br><sub><b>MySQL</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://img.icons8.com/color/48/microsoft-sql-server.png" width="50"/><br><sub><b>SQL Server</b></sub>
+</td>
+</tr>
+</table>
+
+---
+
+<h2 align="center">🤖 Data Science & Machine Learning</h2>
+<table align="center">
+<tr>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="50"/><br><sub><b>Scikit-Learn</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="50"/><br><sub><b>TensorFlow</b></sub>
+</td>
+</tr>
+</table>
+
+---
+
+<h2 align="center">🔁 Versionamento & Ferramentas</h2>
+<table align="center">
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=git" width="50"/><br><sub><b>Git</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=github" width="50"/><br><sub><b>GitHub</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=vscode" width="50"/><br><sub><b>VS Code</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://img.icons8.com/fluency/48/jupyter.png" width="50"/><br><sub><b>Jupyter</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/n8n/EA4B71" width="50"/><br><sub><b>n8n</b></sub>
+</td>
+</tr>
+</table>
 
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LucasPBar&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LucasPBar&theme=github_dark" />
+</p>
+
 <div align="center">
 
-![LucasPBar GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasPBar&show_icons=true&theme=transparent&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPBar&layout=compact&theme=transparent)
+[![GitHub Streak](https://streak-stats.demolab.com?user=LucasPBar&theme=dark&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
 
 </div>
 
 ---
-
-## 🌱 Atualmente focado em  
-
-- Projetos práticos de **análise e visualização de dados**  
-- Aprofundar conhecimentos em **Python, SQL, R e Machine Learning**  
-- Criação de **dashboards interativos no Power BI**  
-- Explorar **IA aplicada à análise de dados**  
-
 ---
 
-## 📬 Vamos nos conectar
+<h2 align="center">📬 Vamos nos conectar</h2>
 
-<!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/lucaspimentabarretto/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="35" height="35" />
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucaspimentabarretto/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Lucas%20Barretto-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=lucaspimenta1805@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-lucaspimenta1805-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
-
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=lucaspimenta1805@gmail.com" target="_blank">
-  <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="35" height="35" />
-</a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LucasPBar&color=0077B5&style=for-the-badge&label=VISUALIZAÇÕES+DO+PERFIL" alt="Profile views"/>
+</p>
