@@ -22,6 +22,7 @@
   />
 </p>
 
+
 ---
 
 ## 🚀 Sobre mim
@@ -145,7 +146,49 @@ Minha atuação envolve **Python**, **SQL** e **Power BI**, além de bibliotecas
 </div>
 
 ---
----
+
+## 🏆 Principais Certificações
+
+<table align="center">
+<tr>
+<td align="center" width="60">
+<a href="https://www.coursera.org/account/accomplishments/specialization/QL2ZSP8Y4DE6" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" width="45"/>
+</a>
+</td>
+<td>
+<a href="https://www.coursera.org/account/accomplishments/specialization/QL2ZSP8Y4DE6" target="_blank">
+<b>Google Advanced Data Analytics</b>
+</a>
+</td>
+</tr>
+<tr>
+<td align="center" width="60">
+<a href="https://www.coursera.org/account/accomplishments/specialization/C6VLHUG7QF97" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" width="45"/>
+</a>
+</td>
+<td>
+<a href="https://www.coursera.org/account/accomplishments/specialization/C6VLHUG7QF97" target="_blank">
+<b>Google Data Analytics</b>
+</a>
+</td>
+</tr>
+<tr>
+<td align="center" width="60">
+<a href="https://www.coursera.org/account/accomplishments/specialization/0LZ2HCFF0E6L" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" width="45"/>
+</a>
+</td>
+<td>
+<a href="https://www.coursera.org/account/accomplishments/specialization/0LZ2HCFF0E6L" target="_blank">
+<b>Google Project Management Professional Certificate</b>
+</a>
+</td>
+</tr>
+</table>
+
+----
 
 <h2 align="center">📬 Vamos nos conectar</h2>
 
@@ -162,3 +205,4 @@ Minha atuação envolve **Python**, **SQL** e **Power BI**, além de bibliotecas
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LucasPBar&color=0077B5&style=for-the-badge&label=VISUALIZAÇÕES+DO+PERFIL" alt="Profile views"/>
 </p>
+
