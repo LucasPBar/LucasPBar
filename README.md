@@ -9,7 +9,7 @@
 <!-- TYPING EFFECT ALINHADO -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Streamlit+Dashboard+Builder;Business+Driven+Projects"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Data+Driven"
     width="800"
   />
 </p>
