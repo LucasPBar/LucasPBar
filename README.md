@@ -91,7 +91,6 @@ Minha atuação envolve **Python**, **SQL** e **Power BI**, além de bibliotecas
 ---
 
 ## 🛠️ Habilidades Técnicas
-
 <h2 align="center">💻 Linguagens & Análise de Dados</h2>
 <table align="center">
 <tr>
@@ -113,8 +112,6 @@ Minha atuação envolve **Python**, **SQL** e **Power BI**, além de bibliotecas
 </tr>
 </table>
 
-<br>
-
 ---
 
 <h2 align="center">📊 Visualização & BI</h2>
@@ -135,8 +132,6 @@ Minha atuação envolve **Python**, **SQL** e **Power BI**, além de bibliotecas
 </tr>
 </table>
 
-<br>
-
 ---
 
 <h2 align="center">🗄️ Bancos de Dados</h2>
@@ -151,10 +146,11 @@ Minha atuação envolve **Python**, **SQL** e **Power BI**, além de bibliotecas
 <td align="center" width="120">
 <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" width="50"/><br><sub><b>SQL Server</b></sub>
 </td>
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/dbeaver/382923" width="50"/><br><sub><b>DBeaver</b></sub>
+</td>
 </tr>
 </table>
-
-<br>
 
 ---
 
@@ -167,10 +163,11 @@ Minha atuação envolve **Python**, **SQL** e **Power BI**, além de bibliotecas
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=tensorflow" width="50"/><br><sub><b>TensorFlow</b></sub>
 </td>
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/keras/D00000" width="50"/><br><sub><b>Keras</b></sub>
+</td>
 </tr>
 </table>
-
-<br>
 
 ---
 
@@ -195,24 +192,11 @@ Minha atuação envolve **Python**, **SQL** e **Power BI**, além de bibliotecas
 </tr>
 </table>
 
-<br>
-
----
-
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=LucasPBar&theme=dark&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
-
-</div>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LucasPBar&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LucasPBar&theme=github_dark" />
-</p>
-
-<br>
 
 ---
 
