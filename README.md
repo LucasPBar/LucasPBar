@@ -1,3 +1,14 @@
+<!-- LANGUAGE TOGGLE -->
+<p align="right">
+  <a href="./README.md">
+    <img src="https://img.shields.io/badge/🇧🇷%20Português-ativo-0E75B6?style=for-the-badge" alt="Português"/>
+  </a>
+  &nbsp;
+  <a href="./README.en.md">
+    <img src="https://img.shields.io/badge/🇺🇸%20English-switch-555555?style=for-the-badge" alt="English"/>
+  </a>
+</p>
+
 <!-- BANNER ANIMADO -->
 <p align="center">
   <img 
@@ -197,6 +208,8 @@ Minha atuação envolve **Python**, **SQL** e **Power BI**, além de bibliotecas
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=LucasPBar&theme=dark&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
