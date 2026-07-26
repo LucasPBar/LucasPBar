@@ -102,7 +102,7 @@ My work involves **Python**, **SQL**, and **Power BI**, along with libraries suc
 ---
 
 ## 🛠️ Technical Skills
-<h2 align="center">💻 Languages & Data Analysis</h2>
+<h2 align="center">💻 Linguagens & Análise de Dados</h2>
 <table align="center">
 <tr>
 <td align="center" width="120">
@@ -125,7 +125,7 @@ My work involves **Python**, **SQL**, and **Power BI**, along with libraries suc
 
 ---
 
-<h2 align="center">📊 Visualization & BI</h2>
+<h2 align="center">📊 Visualização & BI</h2>
 <table align="center">
 <tr>
 <td align="center" width="120">
@@ -145,7 +145,7 @@ My work involves **Python**, **SQL**, and **Power BI**, along with libraries suc
 
 ---
 
-<h2 align="center">🗄️ Databases</h2>
+<h2 align="center">🗄️ Bancos de Dados</h2>
 <table align="center">
 <tr>
 <td align="center" width="120">
@@ -182,7 +182,18 @@ My work involves **Python**, **SQL**, and **Power BI**, along with libraries suc
 
 ---
 
-<h2 align="center">🔁 Version Control & Tools</h2>
+<h2 align="center">☁️ Cloud Computing</h2>
+<table align="center">
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=aws" width="50"/><br><sub><b>AWS</b></sub>
+</td>
+</tr>
+</table>
+
+---
+
+<h2 align="center">🔁 Versionamento & Ferramentas</h2>
 <table align="center">
 <tr>
 <td align="center" width="120">
@@ -216,46 +227,88 @@ My work involves **Python**, **SQL**, and **Power BI**, along with libraries suc
 ## 🏆 Top Certifications
 
 <table align="center" border="0" cellspacing="0" cellpadding="10">
-  <tr>
-    <td width="500" valign="top">
-      <h3>📊 Google Advanced Data Analytics</h3>
-      <p>Advanced training in statistical analysis, regression, machine learning, and data storytelling — with hands-on projects using Python and real-world data.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Statistics-0E75B6?style=flat-square"/>
-      </p>
-      <a href="https://www.coursera.org/account/accomplishments/specialization/QL2ZSP8Y4DE6" target="_blank">🏅 View Certificate</a>
-    </td>
-    <td width="500" valign="top">
-      <h3>📈 Google Data Analytics</h3>
-      <p>Data analytics fundamentals covering the full cycle — from data cleaning and SQL queries to visualization and insight generation with Tableau and R.</p>
-      <p>
-        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
-      </p>
-      <a href="https://www.coursera.org/account/accomplishments/specialization/C6VLHUG7QF97" target="_blank">🏅 View Certificate</a>
-    </td>
-  </tr>
-</table>
 
-<table align="center" border="0" cellspacing="0" cellpadding="10">
-  <tr>
-    <td width="500" valign="top" align="center">
-      <h3>🗂️ Google Project Management</h3>
-      <p>Full project management methodology — planning, execution, risk management, and agile frameworks applied to real-world scenarios.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Agile-0E75B6?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Scrum-001F3F?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Risk%20Management-0E75B6?style=flat-square"/>
-      </p>
-      <a href="https://www.coursera.org/account/accomplishments/specialization/0LZ2HCFF0E6L" target="_blank">🏅 View Certificate</a>
-    </td>
-  </tr>
-</table>
+<tr>
 
-<br>
+<td width="500" valign="top">
+
+<h3>📊 Google Advanced Data Analytics</h3>
+
+<p>Advanced training in statistical analysis, regression, Machine Learning, and Data Storytelling, featuring hands-on projects developed in Python using real-world datasets.</p>
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square"/>
+<img src="https://img.shields.io/badge/Statistics-0E75B6?style=flat-square"/>
+</p>
+
+<a href="https://www.coursera.org/account/accomplishments/specialization/QL2ZSP8Y4DE6" target="_blank">
+🏅 View Certificate
+</a>
+
+</td>
+
+<td width="500" valign="top">
+
+<h3>📈 Google Data Analytics</h3>
+
+<p>Foundations of data analytics covering the entire analytical lifecycle, from data cleaning and SQL queries to visualization and insight generation using Tableau and R.</p>
+
+<p>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+</p>
+
+<a href="https://www.coursera.org/account/accomplishments/specialization/C6VLHUG7QF97" target="_blank">
+🏅 View Certificate
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="500" valign="top">
+
+<h3>🗂️ Google Project Management</h3>
+
+<p>Comprehensive project management methodology, including planning, execution, risk management, and agile frameworks applied to real-world scenarios.</p>
+
+<p>
+<img src="https://img.shields.io/badge/Agile-0E75B6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Scrum-001F3F?style=flat-square"/>
+<img src="https://img.shields.io/badge/Risk%20Management-0E75B6?style=flat-square"/>
+</p>
+
+<a href="https://www.coursera.org/account/accomplishments/specialization/0LZ2HCFF0E6L" target="_blank">
+🏅 View Certificate
+</a>
+
+</td>
+
+<td width="500" valign="top">
+
+<h3>☁️ AWS re/Start Graduate</h3>
+
+<p>AWS re/Start is a skills development and job training program that prepares learners for cloud computing careers. Each cohort, supported by professional mentors and accredited instructors, completes training featuring scenario-based learning, hands-on labs, and coursework.</p>
+
+<p>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloud%20Computing-0E75B6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Hands--on%20Labs-232F3E?style=flat-square"/>
+</p>
+
+<a href="https://www.credly.com/badges/a6877d4d-3c30-4cb7-a528-c635b01926a4/public_url" target="_blank">
+🏅 View Certificate
+</a>
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
