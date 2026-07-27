@@ -108,15 +108,23 @@ Minha atuação envolve **Python**, **SQL** e **Power BI**, além de bibliotecas
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=python" width="50"/><br><sub><b>Python</b></sub>
 </td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=matlab" width="50"/><br><sub><b>MATLAB</b></sub>
+</td>
+
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=r" width="50"/><br><sub><b>R</b></sub>
 </td>
+
 <td align="center" width="120">
 <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-sql-coding-and-development-flat-flat-juicy-fish.png" width="50"/><br><sub><b>SQL</b></sub>
 </td>
+
 <td align="center" width="120">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="50"/><br><sub><b>Pandas</b></sub>
 </td>
+
 <td align="center" width="120">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="50"/><br><sub><b>NumPy</b></sub>
 </td>
