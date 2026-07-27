@@ -101,14 +101,6 @@ My work involves **Python**, **SQL**, and **Power BI**, along with libraries suc
 
 ---
 
-
-<img src="https://cdn.simpleicons.org/dbeaver/382923" width="50"/><br><sub><b>DBeaver</b></sub>
-</td>
-</tr>
-</table>
-
----
-
 ## 🛠️ Technical Skills
 
 <h2 align="center">💻 Programming Languages & Data Analysis</h2>
