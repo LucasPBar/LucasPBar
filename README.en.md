@@ -101,22 +101,39 @@ My work involves **Python**, **SQL**, and **Power BI**, along with libraries suc
 
 ---
 
+
+<img src="https://cdn.simpleicons.org/dbeaver/382923" width="50"/><br><sub><b>DBeaver</b></sub>
+</td>
+</tr>
+</table>
+
+---
+
 ## 🛠️ Technical Skills
-<h2 align="center">💻 Linguagens & Análise de Dados</h2>
+
+<h2 align="center">💻 Programming Languages & Data Analysis</h2>
 <table align="center">
 <tr>
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=python" width="50"/><br><sub><b>Python</b></sub>
 </td>
+
+<td align="center" width="120">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="50"/><br><sub><b>MATLAB</b></sub>
+</td>
+
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=r" width="50"/><br><sub><b>R</b></sub>
 </td>
+
 <td align="center" width="120">
 <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-sql-coding-and-development-flat-flat-juicy-fish.png" width="50"/><br><sub><b>SQL</b></sub>
 </td>
+
 <td align="center" width="120">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="50"/><br><sub><b>Pandas</b></sub>
 </td>
+
 <td align="center" width="120">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="50"/><br><sub><b>NumPy</b></sub>
 </td>
@@ -125,18 +142,21 @@ My work involves **Python**, **SQL**, and **Power BI**, along with libraries suc
 
 ---
 
-<h2 align="center">📊 Visualização & BI</h2>
+<h2 align="center">📊 Data Visualization & Business Intelligence</h2>
 <table align="center">
 <tr>
 <td align="center" width="120">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="50"/><br><sub><b>Matplotlib</b></sub>
 </td>
+
 <td align="center" width="120">
 <img src="https://seaborn.pydata.org/_static/logo-mark-lightbg.svg" width="50"/><br><sub><b>Seaborn</b></sub>
 </td>
+
 <td align="center" width="120">
 <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="50"/><br><sub><b>Streamlit</b></sub>
 </td>
+
 <td align="center" width="120">
 <img src="https://img.icons8.com/color/48/power-bi.png" width="50"/><br><sub><b>Power BI</b></sub>
 </td>
@@ -145,18 +165,21 @@ My work involves **Python**, **SQL**, and **Power BI**, along with libraries suc
 
 ---
 
-<h2 align="center">🗄️ Bancos de Dados</h2>
+<h2 align="center">🗄️ Databases</h2>
 <table align="center">
 <tr>
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=postgres" width="50"/><br><sub><b>PostgreSQL</b></sub>
 </td>
+
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=mysql" width="50"/><br><sub><b>MySQL</b></sub>
 </td>
+
 <td align="center" width="120">
 <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" width="50"/><br><sub><b>SQL Server</b></sub>
 </td>
+
 <td align="center" width="120">
 <img src="https://cdn.simpleicons.org/dbeaver/382923" width="50"/><br><sub><b>DBeaver</b></sub>
 </td>
@@ -171,9 +194,11 @@ My work involves **Python**, **SQL**, and **Power BI**, along with libraries suc
 <td align="center" width="120">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="50"/><br><sub><b>Scikit-Learn</b></sub>
 </td>
+
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=tensorflow" width="50"/><br><sub><b>TensorFlow</b></sub>
 </td>
+
 <td align="center" width="120">
 <img src="https://cdn.simpleicons.org/keras/D00000" width="50"/><br><sub><b>Keras</b></sub>
 </td>
@@ -193,26 +218,32 @@ My work involves **Python**, **SQL**, and **Power BI**, along with libraries suc
 
 ---
 
-<h2 align="center">🔁 Versionamento & Ferramentas</h2>
+<h2 align="center">🔁 Version Control & Development Tools</h2>
 <table align="center">
 <tr>
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=git" width="50"/><br><sub><b>Git</b></sub>
 </td>
+
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=github" width="50"/><br><sub><b>GitHub</b></sub>
 </td>
+
 <td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=vscode" width="50"/><br><sub><b>VS Code</b></sub>
+<img src="https://skillicons.dev/icons?i=vscode" width="50"/><br><sub><b>Visual Studio Code</b></sub>
 </td>
+
 <td align="center" width="120">
-<img src="https://img.icons8.com/fluency/48/jupyter.png" width="50"/><br><sub><b>Jupyter</b></sub>
+<img src="https://img.icons8.com/fluency/48/jupyter.png" width="50"/><br><sub><b>Jupyter Notebook</b></sub>
 </td>
+
 <td align="center" width="120">
 <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="50"/><br><sub><b>n8n</b></sub>
 </td>
 </tr>
 </table>
+
+---
 
 ## 📊 GitHub Stats
 
